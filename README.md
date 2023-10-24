@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, welcome to my GitHub! Feel free to grab my plugins or snag their source code :P
 
 <!--
 **rem3mb3r/rem3mb3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
